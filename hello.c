@@ -1,6 +1,6 @@
 
 #include<stdio.h> 
 void main(){
-	printf("master5");
+	printf("master77");
 
 }
